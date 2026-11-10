@@ -1,0 +1,8 @@
+torch>=1.13
+torchvision
+numpy
+scipy
+scikit-image
+tqdm
+Pillow
+opencv-python
